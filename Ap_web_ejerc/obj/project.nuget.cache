@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5knrib7iQuo9L80es5BqVOnKw4lpsoQeTXjo43ByGH54GlEbKLW+a1NxGNo7VCZdEBpJw2kMiQK6B+0rCryWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Trillizos\\RiderProjects\\Ap_web_ejerc\\Ap_web_ejerc\\Ap_web_ejerc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trillizos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "C:\\Users\\Trillizos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Trillizos\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Trillizos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Trillizos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Trillizos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Trillizos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
